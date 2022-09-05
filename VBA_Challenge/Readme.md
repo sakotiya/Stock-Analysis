@@ -37,7 +37,7 @@ Using VBA we also factored the exection times of the code for year 2018. Origina
 
 Time elapsed (Original Script)
 
-![alt text](Resources/Originalscrpt.png)
+![alt text](Resources/OriginalScrpt.png)
 
 Time elapsed 2018 (Refractored)
 
