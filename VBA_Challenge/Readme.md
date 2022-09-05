@@ -13,8 +13,6 @@ We are helping Steve to analyze several green energy stocks. he is trying to div
 
 ![alt text](Resources/StockEntry.png)
 
-
-
  In this data Steve has different ticker Stocks , there are about 12 stocks whose returns for year 2017 and 2018 will be looked into. Some of stocks are AY, ENPH, FSLR, HASI, JKS, RUN, VSLR, DQ. Steve has date , opne , high , low , close and most importantly total volume of the stocks. Using this columns we are going to find the returns for each stock and total volume of stocks. and can easily analysis which are loss making stock and how to invest further. We are going to compare the stock performance of year 2017 and 2018 by using VBA code 
  Initially we are finding totalvolume of the stock by using following code
 
@@ -38,15 +36,16 @@ We are helping Steve to analyze several green energy stocks. he is trying to div
 Using VBA we also factored the exection times of the code for year 2018. Original Script took 0.90625 seconds and refractored script took 0.1015625 seconds , there is hardly 0.1 seconds time difference in the both the scripts. 
 
 Time elapsed (Original Script)
+
 ![alt text](Resources/Originalscrpt.png)
 
 Time elapsed 2018 (Refractored)
+
 ![alt text](Resources/2018time.png)
 
 
 So refractorign the scripts has not impacted the time taken to run the code. This same pattern can be seen for the year 2017.  
 
-Time elapsed 2017
 
 ![alt text](Resources/2017time.png)
 
