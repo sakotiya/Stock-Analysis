@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# VBA Challenge
 
 ## Overview of Project
 
